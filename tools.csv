@@ -1,0 +1,199 @@
+java,android,javascript,python,react
+python,c/c++,rust,javascript,postgresql
+c/c++,python,,,
+javascript,react,coq,ocaml,compiler
+python,vhdl,raspberry pi,sqlite,c++
+fuzzing,c/c++,qemu,llvm,sanitizers
+ruby on rails,javascript,android,golang,swift
+vulkan,opengl,c/c++,java,python 3
+ios,android,python,javascript,
+javascript,swift,kotlin,python,
+c++,bash,python,xml,
+fpga,vhdl,c/c++,linux,embedded
+c++11,python,opengl,,
+arduino,golang,c/c++,,
+drones,python,robotics,linux,c/c++
+linux,tensorflow,python,javascript,opencv
+c++11,c/c++,python,cmake,
+c,c++,python,opengl,vulkan
+c++17,c++11,c++,,
+opencl,c/c++,python,tcl/tk,opengl
+javascript,python,java,medical imaging,tensorflow
+python,r-project,javascript,react,nodejs
+go,javascript,react,rust,python
+java,android,swift,ios,php
+c,python,ml,flutter,rust
+c/c++,jenkins,python,javascript,shell script
+c/c++,python,data analysis,machine learning,concurrency
+c++,git,qt,,
+python,javascript,kibana,elasticsearch,mysql
+chapel,high performance computing,c,c++,python
+java,,,,
+java,antlr,xpath,,
+rails,javascript,bootstrap,html5,canvas
+php,javascript,angularjs,mysql,
+kubernetes,golang,cloud,rust,service mesh
+python,django,aws,docker,docker
+tekton,spinnaker,ci/cd,screwdriver,
+c,assembly,x86,arm,
+javascript,vue.js,python,django,wordpress
+linux,c,assembly,,
+python 3,php,mysql,html,css
+dart,flutter,programming-language,,
+python,scala,java,javascript,rdf
+git,python,javascript,c/c++,irc
+c++,javascript,android,php,python
+python,django,,,
+php,symfony,sql,javascript,drupal 8
+eclipsejavaide,jakartaee,java,che,deep learning
+java,react,node.js,golang,
+c,gcc,assembly,,
+erlang,elixir,lfe,beam,
+python 3,rest,linux,web development,linux distribution
+c,asm,git,,
+php,javascript,c/c++,twig,python
+php,mysql,javascript,python,
+verilog,risc-v,python,c++,
+c/c++,llvm,shell script,assembly,make
+c,gnu make,gnu autotools,python,fonts
+c,linux,linux kernel,networking,lua
+javascript,c/c++,web development,game development,react
+shell,bash,c/c++,python,linux
+c++,r,python,,
+c,shell script,git,,
+java,python,node.js,mongodb,spring
+c,rust,gtk,vala,python
+c++,gnss,,,
+c/c++,gnu autotools,gnu make,,
+c++,hg,,,
+python,c++,qt,,
+c/c++,opengl,vulkan,,
+c,javascript,opengl,,
+graphql,javascript,react,node.js,
+c++,posix,unix,webkit,
+haskell,ghc,cabal,codeworld,servant
+java,distributed systems,,,
+ruby,bash,,,
+python,rest,apis,hydra,
+python,c/c++,java,tensorflow,javascript
+javascript,html,css,node.js,
+c++,svg,gtk,python,
+ffmpeg,gstreamer,sound open firmware,libxcam,vaapi
+javascript,python,,,
+java,golang,react,,
+ros,gazebo,python,c/c++,opencv
+java,javascript,docker,kubernetes,go
+node.js,electron,react native,terminal-kit,react
+kubernetes,jsonnet,python 3,jinja2,terraform
+c++,qt,c,opencv,
+python 3,c/c++,javascript,node.js,kotlin
+ffmpeg,python,c++,sqlite,mysql
+python,jupyter notebook,tensorflow,kustomize,kubernetes
+lua,céu,lunatik,pallene,
+python,django,sdr,embedded,space applications
+java,javascript,python 3,android,php
+c++,python,java,,
+kvm,xen,hypervisor,c,python
+linkerd,kubernetes,golang,rust,
+python,vue,html,javascript,java
+systemverilog,c++,fpga,python,risc-v
+tcl,c,python,scripting,buildbot
+mariadb,mysql,c,c++,java
+python,javascript,rust,go,react
+c++,python,,,
+python,cython,numpy,c/c++,
+python,postgres,solr,perl,spark
+ruby,postgresql,python,c,assembly
+python,javascript,gis,julia,mapping
+javascript,java,google web toolkit,android,junit
+c++,qt,javascript,deep learning,
+c++,python,templates,machine learning,deep learning
+golang,javascript,typescript,graphite,react
+c++,ros,,,
+javascript,rust,html5,web development,python
+c++,qt,qml,cmake,
+python,,,,
+java,javafx,,,
+java,javascript,python,r,rest
+c,lua,rpc,,
+java,jni,c,,
+python,c/c++,javascript,r,julia
+python,c++,ui automation,iaccessible2,win32 api
+python,javascript,c/c++,,
+c/c++,python,javascript,opengl,html
+neo4j,python,javascript,react,r-project
+java,javascript,,,
+ros,gazebo,c++,python,
+python,julia,spark,numba,javascript
+c/c++,python 3,javascript,cuda,
+php,mysql,javascript,docker,html
+c99,opengl,vulkan,opencv,libusb
+deep learning,federated learning,homomorphic encryption,secure multi-party computation,differential privacy
+java,javascript,spring,mysql,android
+java,javascript,,,
+javascript,java,python,sql,docker
+linux,python,perl,rpm,javascript
+python,django,openwrt,javascript,lua
+angular,python,css,kotlin,webpack
+elixir,react,javascript,python,raspberry pi
+c/c++,python,sql,open source databases,java
+python,javascript,.net,node.js,
+r,python,docker,postgresql,kubernetes
+javascript,shell script,golang,prometheus,grafana
+c,redis,grafana,rest,libuv
+gtk,gstreamer,c,python 3,
+cpp,cmake,devops,,
+postgresql,postgres,sql,c,perl
+node.js,javascript,,,
+python,android,opengl,java,javascript
+html5,javascript,opengl,svg,c/c++
+python,,,,
+linux,kvm,c,virtualization,rust
+c,python,xen,shell,linux
+r-project,c,c++,fortran,javascript
+c,c++,python,go,qt
+c,c++,win32,nt,
+nlp,asr,opencv,machine learning,data science
+python,c++11,component-based development,qt,opencv
+javascript,react,reactnative,chatbots,ruby
+c/c++,python,assembly,posix,bsd unix
+ruby,c,java,,
+python,cython,,,
+smb,cifs,c,python,
+python,mobile,cloud,web development,machine learning
+c++,sdl,opengl,assembly,lua
+python,c++,data science,machine learning,matlab
+python,java,golang,node.js,xml
+cpp,hpx,python,hpc,cuda
+linux,c,shell,make,awk
+php,python,postgresql,c++,javascript
+python,javascript,gtk,pygame,c
+swift,c++,,,
+c/c++,fpga,python,verilog,
+python,,,,
+c++,gtk,gtkmm,python,
+elasticsearch,kafka,sql,python,c
+python,,,,
+machine learning,deep learning,python,data analysis,c/c++
+java,c++,,,
+c/c++,javascript,android,python,scheme
+python,golang,honeypot,machine learning,networking
+javajava,jvm,android,distributed systems,
+julia,julialang,,,
+c,python,,,
+c,c++,cups,ipp,
+llvm,clang,mlir,,
+android,java,angular,mysql,spring
+c,bsd make,,,
+c/c++,python,,,
+java,lwgjl,opengl,blender,gradle
+c,opengl,directx,win32,vulkan
+c++,asm,c,go,c#
+javascript,webpack,,,
+html,css,python,javascript,php
+qt,c/c++,lua,pcap,cmake
+x11,opencl,opengl,wayland,vulkan
+c++,unicode,swig,linux,golang
+java,xmpp,vala,webrtc,lua
+java,javascript,html5,css,velocity
+python,react native,django,typescript,electron
