@@ -24,7 +24,6 @@ Chapel,https://summerofcode.withgoogle.com/archive/2020/organizations/6722154118
 Checker Framework,https://summerofcode.withgoogle.com/archive/2020/organizations/5983189996142592/,java
 Checkstyle,https://summerofcode.withgoogle.com/archive/2020/organizations/4788704964509696/,"java,antlr,xpath"
 CloudCV,https://summerofcode.withgoogle.com/archive/2020/organizations/6719687229964288/,"python,django,aws,docker,docker"
-coreboot,https://summerofcode.withgoogle.com/archive/2020/organizations/5721709165936640/,"c,assembly,x86,arm"
 Creative Commons,https://summerofcode.withgoogle.com/archive/2020/organizations/5450793232105472/,"javascript,vue.js,python,django,wordpress"
 DBpedia,https://summerofcode.withgoogle.com/archive/2020/organizations/4792495004712960/,"python,scala,java,javascript,rdf"
 Debian,https://summerofcode.withgoogle.com/archive/2020/organizations/6279124282245120/,"git,python,javascript,c/c++,irc"
@@ -94,6 +93,7 @@ Processing Foundation,https://summerofcode.withgoogle.com/archive/2020/organizat
 Python Software Foundation,https://summerofcode.withgoogle.com/archive/2020/organizations/6706162411503616/,python
 Qubes OS,https://summerofcode.withgoogle.com/archive/2020/organizations/4924517870206976/,"c,python,xen,shell,linux"
 Radare,https://summerofcode.withgoogle.com/archive/2020/organizations/6102444192301056/,"c,c++,python,go,qt"
+ReactOS,https://summerofcode.withgoogle.com/archive/2020/organizations/5352970822090752/,"c,c++,win32,nt"
 RoboComp,https://summerofcode.withgoogle.com/archive/2020/organizations/6622081011154944/,"python,c++11,component-based development,qt,opencv"
 RTEMS Project,https://summerofcode.withgoogle.com/archive/2020/organizations/4511020028002304/,"c/c++,python,assembly,posix,bsd unix"
 Ruby,https://summerofcode.withgoogle.com/archive/2020/organizations/5633129894641664/,"ruby,c,java"
@@ -118,6 +118,7 @@ The Libreswan Project,https://summerofcode.withgoogle.com/archive/2020/organizat
 The Mifos Initiative,https://summerofcode.withgoogle.com/archive/2020/organizations/6055344943398912/,"android,java,angular,mysql,spring"
 The ns-3 Network Simulator Project,https://summerofcode.withgoogle.com/archive/2020/organizations/5105708816662528/,"c/c++,python"
 The Terasology Foundation,https://summerofcode.withgoogle.com/archive/2020/organizations/4504833932918784/,"java,lwgjl,opengl,blender,gradle"
+The Wine Project,https://summerofcode.withgoogle.com/archive/2020/organizations/6331124088832000/,"c,opengl,directx,win32,vulkan"
 Wikimedia Foundation,https://summerofcode.withgoogle.com/archive/2020/organizations/5593787323121664/,"html,css,python,javascript,php"
 XMPP Standards Foundation,https://summerofcode.withgoogle.com/archive/2020/organizations/5153224375402496/,"java,xmpp,vala,webrtc,lua"
 XWiki,https://summerofcode.withgoogle.com/archive/2020/organizations/6726059115937792/,"java,javascript,html5,css,velocity"
